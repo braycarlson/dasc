@@ -1,6 +1,6 @@
 ## Heart Disease
 
-This is a data science project from my DASC 4850: Introduction to Data Science and Analytics in Python I class. I chose to use a dataset on heart disease using logistic regression from the `statsmodel` and `sklearn` packages.
+This is a data science project from my DASC 4850: Introduction to Data Science and Analytics in Python I class. I chose to use a dataset on heart disease using logistic regression from the `statsmodel` and `sklearn` packages. You can view the code and output by opening the `heart.ipynb` notebook on GitHub.
 
 ## Prerequisites
 

@@ -1,6 +1,6 @@
 ## Pancreatic Cancer
 
-This is a data science project from my DASC 4850: Introduction to Data Science and Analytics in Python I class. I chose to use a dataset on pancreatic cancer using a `XGBClassifier`.
+This is a data science project from my DASC 4850: Introduction to Data Science and Analytics in Python I class. I chose to use a dataset on pancreatic cancer using a `XGBClassifier`. You can view the code and output by opening the `cancer.ipynb` notebook on GitHub.
 
 ## Prerequisites
 
