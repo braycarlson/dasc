@@ -2,3 +2,5 @@
 *.css linguist-detectable=false
 *.ipynb linguist-detectable=false
 *.py linguist-detectable=true
+*.ipynb linguist-language=Python
+*.py linguist-language=Python
