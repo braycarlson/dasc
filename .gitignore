@@ -4,10 +4,6 @@
 *.sublime-project
 *.sublime-workspace
 
-asteroid/
-hotdog/
-metal/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

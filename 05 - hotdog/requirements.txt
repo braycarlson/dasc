@@ -1,0 +1,25 @@
+-e .
+
+ipython
+ipywidgets
+joblib
+jupyterlab
+jupyterlab-widgets
+keras-tuner
+matplotlib
+natsort
+numpy
+pandas
+pillow
+plotly
+SciencePlots
+scikit-image[optional]
+scikit-learn
+scipy
+seaborn
+shap
+tables
+tensorflow==2.10.0
+tqdm
+typing-extensions
+xgboost
